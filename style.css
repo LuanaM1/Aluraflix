@@ -1,8 +1,6 @@
-element.style {
-  background: black;
-}
-body {
-display: block;
-margin: 8px;
 
+body {
+    color: white;
+    background: black;
+}
 }
